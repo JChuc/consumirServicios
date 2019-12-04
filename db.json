@@ -7,8 +7,8 @@
   ],
   "posts": [
     { "id": 1, "title": "¿PORQUE QUE ADOPTAR ANIMALES?","body":"pienso que es importante adoptar porque.....","userId":1 },
-    { "id": 2, "title": "¿QUE PIENSO DEL CALENTAMIENTO GLOBAL?","body":"Es necesario crear energias renovables...", "userId":1"},
-    { "id": 3, "title": "¿COMO CREAR UNA EMPRESA?","body":"Es necesario definir la empresa...", "userId":2"}
+    { "id": 2, "title": "¿QUE PIENSO DEL CALENTAMIENTO GLOBAL?","body":"Es necesario crear energias renovables...","userId":1},
+    { "id": 3, "title": "¿COMO CREAR UNA EMPRESA?","body":"Es necesario definir la empresa...","userId":2}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
