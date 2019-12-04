@@ -1,0 +1,17 @@
+ 
+{
+  "users":[
+  {"id":1,"name":"Jorge A", "username":"Jalberto","email":"alberto@pruebas.com","image":"https://logosmarcas.com/wp-content/uploads/2018/05/Superman-logo.png"},
+  {"id":2,"name":"Martha C", "username":"Mcarranza","email":"carranza@pruebas.com","image":"https://logosmarcas.com/wp-content/uploads/2018/05/Superman-logo.png"},
+  {"id":3,"name":"Jesus P", "username":"Jperez","email":"perez@pruebas.com","image":"https://logosmarcas.com/wp-content/uploads/2018/05/Superman-logo.png"}
+  ],
+  "posts": [
+    { "id": 1, "title": "¿PORQUE QUE ADOPTAR ANIMALES?","body":"pienso que es importante adoptar porque.....","userId":1 },
+    { "id": 2, "title": "¿QUE PIENSO DEL CALENTAMIENTO GLOBAL?","body":"Es necesario crear energias renovables...", "userId":1"},
+    { "id": 3, "title": "¿COMO CREAR UNA EMPRESA?","body":"Es necesario definir la empresa...", "userId":2"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
